@@ -1,0 +1,5 @@
+.project/
+__pycache__/
+zuhi.png
+db.sqlite3
+TASK.md
